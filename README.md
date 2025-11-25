@@ -15,7 +15,6 @@ Unlike static Excel models, this script connects directly to live market data AP
 * **Python 3.x**
 * **yfinance** (Data ingestion)
 * **Pandas** (Data manipulation and financial statement parsing)
-* **NumPy** (Financial mathematics)
 
 ##  Example Output
 *Running the model on Apple Inc. (AAPL) [Nov 2025]:*
